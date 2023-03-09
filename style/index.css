@@ -1,0 +1,27 @@
+body{
+    background-image: url(../asserts/WhatsApp\ Image\ 2023-03-05\ at\ 6.43.43\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    
+
+}
+.hn,thead,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+.hn{
+    width: 800px;
+    height: 100%;
+}
+
+td{
+    text-align: center;
+}
+.img{
+    background-image: url(../asserts/hd-a5u9zq0a0ymy2dug.jpg);
+    height: 200px;
+    width: 200px;
+    background-position: center ;
+}
